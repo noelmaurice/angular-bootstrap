@@ -7,12 +7,10 @@ import { Routes, RouterModule } from "@angular/router";
 import { AppComponent } from './app.component';
 import { MenuComponent } from './component/menu/menu.component';
 import { BannerComponent } from './component/banner/banner.component';
-import { PortfolioComponent } from './component/portfolio/portfolio.component';
-import { AboutComponent } from './component/about/about.component';
-import { ContactComponent } from './component/contact/contact.component';
 import { CopyrightComponent } from './component/copyright/copyright.component';
 import { FooterComponent } from './component/footer/footer.component';
-import { HomeComponent } from './component/home/home.component';
+import { HomeComponent } from './view/home/home.component';
+import { ViewModule } from './view/view.module';
 
 const appRoutes: Routes = [
   { path: '', component: HomeComponent, pathMatch: 'full' },
@@ -25,19 +23,16 @@ const appRoutes: Routes = [
     AppComponent,
     MenuComponent,
     BannerComponent,
-    PortfolioComponent,
-    AboutComponent,
-    ContactComponent,
     CopyrightComponent,
-    FooterComponent,
-    HomeComponent
+    FooterComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
     ReactiveFormsModule,
     HttpClientModule,
-    RouterModule.forRoot(appRoutes)
+    RouterModule.forRoot(appRoutes),
+    ViewModule
   ],
   providers: [],
   bootstrap: [AppComponent]
