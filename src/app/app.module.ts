@@ -27,8 +27,8 @@ import { PageNotFoundComponent } from './view/page-not-found/page-not-found.comp
 		FormsModule,
 		ReactiveFormsModule,
 		HttpClientModule,
-		AppRoutingModule,
-		ViewModule
+		ViewModule,
+		AppRoutingModule
 	],
 	providers: [],
 	bootstrap: [AppComponent]
