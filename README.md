@@ -4,11 +4,7 @@ Ce projet est un projet pédagogique. En règle générale, par souci de discré
 
 # Copie d'écrans de l'application 
 
-## Affichage du home de l'application web " one page "
-
-<img src="doc/demo/home.png" />
-
-## Affichage du portfolio
+## Affichage du portfolio de l'application WEB " One page "
 
 <img src="doc/demo/portfolio.png" />
 
