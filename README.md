@@ -8,6 +8,11 @@ Ce projet est un projet pédagogique. En règle générale, par souci de discré
 
 <img src="https://github.com/noelmaurice/ng-bootstrap/blob/master/doc/demo/home.png" />
 
+## Affichage du portfolio :
+
+<img src="https://github.com/noelmaurice/ng-bootstrap/blob/master/doc/demo/portfolio.png" />
+
+
 # Bootstrap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.7.
