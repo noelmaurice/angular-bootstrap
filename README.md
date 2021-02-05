@@ -6,7 +6,7 @@ Ce projet est un projet pédagogique. En règle générale, par souci de discré
 
 ## Affichage du home de l'application web " one page " :
 
-<img src="https://github.com/noelmaurice/ng-bootstrap/blob/master/doc/demo/home.png" />
+<img src="doc/demo/home.png" />
 
 ## Affichage du portfolio :
 
