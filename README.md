@@ -12,6 +12,13 @@ Ce projet est un projet pédagogique. En règle générale, par souci de discré
 
 <img src="https://github.com/noelmaurice/ng-bootstrap/blob/master/doc/demo/portfolio.png" />
 
+## Affichage d'un item du portfolio :
+
+<img src="https://github.com/noelmaurice/ng-bootstrap/blob/master/doc/demo/popup_item.png " />
+
+## Affichage du formulaire de contact :
+
+<img src="https://github.com/noelmaurice/ng-bootstrap/blob/master/doc/demo/contact.png " />
 
 
 # Bootstrap
