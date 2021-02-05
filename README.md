@@ -4,19 +4,19 @@ Ce projet est un projet pédagogique. En règle générale, par souci de discré
 
 # Copie d'écrans de l'application 
 
-## Affichage du home de l'application web " one page " :
+## Affichage du home de l'application web " one page "
 
 <img src="doc/demo/home.png" />
 
-## Affichage du portfolio :
+## Affichage du portfolio
 
 <img src="doc/demo/portfolio.png" />
 
-## Affichage d'un item du portfolio :
+## Affichage d'un item du portfolio
 
 <img src="doc/demo/popup_item.png " />
 
-## Affichage du formulaire de contact :
+## Affichage du formulaire de contact
 
 <img src="doc/demo/contact.png " />
 
