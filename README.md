@@ -1,3 +1,18 @@
+# Introduction
+
+Ce projet est un projet pédagogique. En règle générale, par souci de discrétion et de respect pour les employeurs, les projets professionnels ne sont pas disponibles sur ce repository.
+
+# Copie d'écrans de l'application 
+
+## Affichage du home de l'application web " one page " :
+
+<img src="https://github.com/noelmaurice/ng-bootstrap/blob/master/doc/demo/home.png" />
+
+## Affichage du portfolio :
+
+<img src="https://github.com/noelmaurice/ng-bootstrap/blob/master/doc/demo/portfolio.png" />
+
+
 # Bootstrap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.7.
